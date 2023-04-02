@@ -1,0 +1,18 @@
+#Команда отключения экранирования ковычек
+php_flag magic_quotes_qpc Off
+#Лимит на загрузку данных
+php_value upload_max_filesize 100M
+#Устанавливает кодировку для сервера
+AddDefaultCharset utf-8
+#Принуждает искать файлы только index.php
+DirectoryIndex index.php
+#Мод Rewrite перенаправляет на единую точку входа
+#Подключаем мод Rewrite
+RewriteEngine on
+#Условия Rewrite
+#Если запрос не является файлом
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !favicon.ico
+#Пенаправит на файл index.php
+RewriteRule ^(.*) index.php
+

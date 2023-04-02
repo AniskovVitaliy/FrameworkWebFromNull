@@ -1,0 +1,41 @@
+Fault: 19-03-2022 22:17:04 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:17:30 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:17:32 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:17:34 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:17:59 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:19:24 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:19:31 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 19-03-2022 22:19:51 - Ошибка в SQL запросе: SHOW COLUMNS FROM alias - 1146 Table 'im.alias' doesn't exist
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
+Fault: 15-07-2022 22:37:46 - Ошибка подключения к базе данных:2002����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 19
+
+Fault: 15-07-2022 23:02:42 - Ошибка в SQL запросе: SHOW COLUMNS FROM goods - 2006 MySQL server has gone away
+file C:\OpenServer\domains\framework\public_html\core\base\model\BaseModel.php
+In line 41
+
